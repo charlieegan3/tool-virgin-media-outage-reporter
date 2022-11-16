@@ -1,0 +1,21 @@
+{
+  "care2Session": {
+    "serviceStatusResponse": {
+      "currentOutagesByProductType": {
+        "BROADBAND": {
+          "outages": [
+            {
+              "outageId": "0000000",
+              "description": "You might find that you don't have any Virgin Fibre, Virgin TV, Virgin Phone, TiVo® or Interactive TV services at the moment. We are sorry about this and are working hard to restore your services as soon as possible.",
+              "outageStatus": "Our technician is in your area and is working to fix things.",
+              "outageType": "CHANGE",
+              "estimatedResolutionDate": "2022-11-14T15:00:00",
+              "hasSubscribedToNotification": false,
+              "ticketNumber": "C111111111"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
